@@ -10,7 +10,7 @@ public class Palindrome implements Check{
     public void palindrome() {
         int  reversedNum = 0, remainder;
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter a number to to find factorial :");
+        System.out.println("Enter a number to to find Palindrom :");
         int num=sc.nextInt();
 
         int originalNum = num;
